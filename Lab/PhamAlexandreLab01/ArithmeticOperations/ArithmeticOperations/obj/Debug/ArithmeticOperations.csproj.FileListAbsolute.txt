@@ -1,0 +1,16 @@
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\15147\source\repos\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe.config
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.exe
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\bin\Debug\ArithmeticOperations.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.AssemblyReference.cache
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.csproj.CoreCompileInputs.cache
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.exe
+C:\Users\15147\Downloads\PhamAlexandreLab01\ArithmeticOperations\ArithmeticOperations\obj\Debug\ArithmeticOperations.pdb
