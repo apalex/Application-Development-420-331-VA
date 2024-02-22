@@ -1,0 +1,16 @@
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe.config
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\bin\Debug\HealthProfile.pdb
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\obj\Debug\HealthProfile.exe
+C:\Users\15147\source\repos\HealthProfile\HealthProfile\obj\Debug\HealthProfile.pdb
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe.config
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\bin\Debug\HealthProfile.exe
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\bin\Debug\HealthProfile.pdb
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.AssemblyReference.cache
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.csproj.CoreCompileInputs.cache
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.exe
+C:\Users\15147\Downloads\PhamAlexandreAssignment01\HealthProfile\HealthProfile\obj\Debug\HealthProfile.pdb
