@@ -1,0 +1,8 @@
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\bin\Debug\Account.exe.config
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\bin\Debug\Account.exe
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\bin\Debug\Account.pdb
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\obj\Debug\Assignment2.csproj.AssemblyReference.cache
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\obj\Debug\Assignment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\obj\Debug\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\obj\Debug\Account.exe
+C:\Users\15147\Downloads\PhamAlexandreAssignment02\Account\Account\obj\Debug\Account.pdb
