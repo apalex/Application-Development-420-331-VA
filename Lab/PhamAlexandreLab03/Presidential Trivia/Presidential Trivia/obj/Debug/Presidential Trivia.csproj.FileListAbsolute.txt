@@ -1,0 +1,21 @@
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.pdb
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Form1.resources
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
+C:\Users\prodo\Desktop\CSharpLearning\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe.config
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.exe
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\bin\Debug\Presidential Trivia.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.AssemblyReference.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Form1.resources
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential_Trivia.Properties.Resources.resources
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.GenerateResource.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.csproj.CoreCompileInputs.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.exe
+C:\Users\15147\Downloads\PhamAlexandreLab03\Presidential Trivia\Presidential Trivia\obj\Debug\Presidential Trivia.pdb
