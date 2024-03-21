@@ -1,0 +1,21 @@
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.exe
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.pdb
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple_Buttons.Form1.resources
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple_Buttons.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.exe
+C:\Users\prodo\Desktop\CSharpLearning\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.exe.config
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.exe
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\bin\Debug\Multiple Buttons.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.AssemblyReference.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple_Buttons.Form1.resources
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple_Buttons.Properties.Resources.resources
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.GenerateResource.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.csproj.CoreCompileInputs.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.exe
+C:\Users\15147\Downloads\PhamAlexandreLab03\Multiple Buttons\Multiple Buttons\obj\Debug\Multiple Buttons.pdb

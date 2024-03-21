@@ -1,0 +1,11 @@
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\bin\Debug\KeyDemo.exe.config
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\bin\Debug\KeyDemo.exe
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\bin\Debug\KeyDemo.pdb
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.KeyDemo.resources
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.Properties.Resources.resources
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.csproj.GenerateResource.cache
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.exe
+C:\Users\15147\source\repos\KeyDemo\KeyDemo\obj\Debug\KeyDemo.pdb
