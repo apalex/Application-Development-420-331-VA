@@ -1,0 +1,21 @@
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\prodo\Desktop\CSharpLearning\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello_World.Form1.resources
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello_World.Properties.Resources.resources
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello World.csproj.GenerateResource.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\15147\Downloads\PhamAlexandreLab03\Hello World\Hello World\obj\Debug\Hello World.pdb
