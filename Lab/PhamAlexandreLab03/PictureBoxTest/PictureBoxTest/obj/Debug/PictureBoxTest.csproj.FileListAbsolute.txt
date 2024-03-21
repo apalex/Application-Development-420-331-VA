@@ -1,0 +1,11 @@
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe.config
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.exe
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\bin\Debug\PictureBoxTest.pdb
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.PictureBoxTestForm.resources
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.Properties.Resources.resources
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.GenerateResource.cache
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.exe
+C:\Users\15147\source\repos\PictureBoxTest\PictureBoxTest\obj\Debug\PictureBoxTest.pdb
