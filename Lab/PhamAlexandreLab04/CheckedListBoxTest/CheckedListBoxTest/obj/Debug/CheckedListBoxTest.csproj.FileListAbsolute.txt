@@ -1,0 +1,10 @@
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.exe
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\bin\Debug\CheckedListBoxTest.pdb
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.CheckedListBoxTestForm.resources
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.exe
+C:\Users\prodo\Desktop\CSharpLearning\CheckedListBoxTest\CheckedListBoxTest\obj\Debug\CheckedListBoxTest.pdb
