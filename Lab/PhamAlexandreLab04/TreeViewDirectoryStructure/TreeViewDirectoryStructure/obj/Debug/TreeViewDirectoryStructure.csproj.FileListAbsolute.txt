@@ -1,0 +1,10 @@
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\obj\Debug\TreeViewDirectoryStructure.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\obj\Debug\TreeViewDirectoryStructure.TreeViewDirectoryStructureForm.resources
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\obj\Debug\TreeViewDirectoryStructure.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\obj\Debug\TreeViewDirectoryStructure.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\obj\Debug\TreeViewDirectoryStructure.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\bin\Debug\TreeViewDirectoryStructure.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\bin\Debug\TreeViewDirectoryStructure.exe
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\bin\Debug\TreeViewDirectoryStructure.pdb
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\obj\Debug\TreeViewDirectoryStructure.exe
+C:\Users\prodo\Desktop\CSharpLearning\TreeViewDirectoryStructure\TreeViewDirectoryStructure\obj\Debug\TreeViewDirectoryStructure.pdb

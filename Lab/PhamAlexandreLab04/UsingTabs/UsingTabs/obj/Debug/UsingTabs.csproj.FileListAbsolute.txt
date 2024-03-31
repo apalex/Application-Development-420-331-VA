@@ -1,0 +1,10 @@
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\bin\Debug\UsingTabs.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\bin\Debug\UsingTabs.exe
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\bin\Debug\UsingTabs.pdb
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\obj\Debug\UsingTabs.UsingTabsForm.resources
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\obj\Debug\UsingTabs.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\obj\Debug\UsingTabs.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\obj\Debug\UsingTabs.exe
+C:\Users\prodo\Desktop\CSharpLearning\UsingTabs\UsingTabs\obj\Debug\UsingTabs.pdb
