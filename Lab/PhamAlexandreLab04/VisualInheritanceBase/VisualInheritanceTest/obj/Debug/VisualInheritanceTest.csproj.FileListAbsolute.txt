@@ -1,0 +1,14 @@
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\bin\Debug\VisualInheritanceTest.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\bin\Debug\VisualInheritanceTest.exe
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\bin\Debug\VisualInheritanceTest.pdb
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\bin\Debug\VisualInheritanceBase.dll
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\bin\Debug\VisualInheritanceBase.pdb
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\bin\Debug\VisualInheritanceBase.dll.config
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.VisualInheritanceTestForm.resources
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.csproj.CopyComplete
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.exe
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceTest\obj\Debug\VisualInheritanceTest.pdb

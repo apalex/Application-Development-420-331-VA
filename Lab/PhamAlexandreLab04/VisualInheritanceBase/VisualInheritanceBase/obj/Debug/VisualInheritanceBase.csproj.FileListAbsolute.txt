@@ -1,0 +1,10 @@
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.pdb
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.VisualInheritanceBaseForm.resources
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.pdb
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.dll.config
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\bin\Debug\VisualInheritanceBase.dll
+C:\Users\prodo\Desktop\CSharpLearning\VisualInheritanceBase\VisualInheritanceBase\obj\Debug\VisualInheritanceBase.dll
