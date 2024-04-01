@@ -1,0 +1,11 @@
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe.config
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\bin\Debug\UsingMDI.exe
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\bin\Debug\UsingMDI.pdb
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.AssemblyReference.cache
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.ChildForm.resources
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.UsingMDIForm.resources
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.Properties.Resources.resources
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.GenerateResource.cache
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.csproj.CoreCompileInputs.cache
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.exe
+C:\Users\prodo\Desktop\CSharpLearning\UsingMDI\UsingMDI\obj\Debug\UsingMDI.pdb
