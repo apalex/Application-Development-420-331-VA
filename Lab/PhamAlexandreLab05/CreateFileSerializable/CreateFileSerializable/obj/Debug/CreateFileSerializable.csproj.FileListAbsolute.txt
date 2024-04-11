@@ -1,0 +1,15 @@
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\bin\Debug\CreateFileSerializable.exe.config
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\bin\Debug\CreateFileSerializable.exe
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\bin\Debug\CreateFileSerializable.pdb
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\bin\Debug\BankLibrary.dll
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\bin\Debug\BankLibrary.pdb
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\bin\Debug\BankLibrary.dll.config
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.CreateFileSerializableForm.resources
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.Properties.Resources.resources
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.csproj.GenerateResource.cache
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.csproj.CopyComplete
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.exe
+C:\Users\15147\source\repos\CreateFileSerializable\CreateFileSerializable\obj\Debug\CreateFileSerializable.pdb
