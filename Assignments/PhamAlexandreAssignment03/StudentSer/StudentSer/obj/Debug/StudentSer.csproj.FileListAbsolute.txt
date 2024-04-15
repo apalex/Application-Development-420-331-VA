@@ -1,0 +1,15 @@
+C:\Users\15147\source\repos\StudentSer\StudentSer\bin\Debug\StudentSer.exe.config
+C:\Users\15147\source\repos\StudentSer\StudentSer\bin\Debug\StudentSer.exe
+C:\Users\15147\source\repos\StudentSer\StudentSer\bin\Debug\StudentSer.pdb
+C:\Users\15147\source\repos\StudentSer\StudentSer\bin\Debug\StudentLibrary.dll
+C:\Users\15147\source\repos\StudentSer\StudentSer\bin\Debug\StudentLibrary.pdb
+C:\Users\15147\source\repos\StudentSer\StudentSer\bin\Debug\StudentLibrary.dll.config
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.StudentGradeForm.resources
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.Properties.Resources.resources
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.csproj.GenerateResource.cache
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.csproj.CopyComplete
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.exe
+C:\Users\15147\source\repos\StudentSer\StudentSer\obj\Debug\StudentSer.pdb

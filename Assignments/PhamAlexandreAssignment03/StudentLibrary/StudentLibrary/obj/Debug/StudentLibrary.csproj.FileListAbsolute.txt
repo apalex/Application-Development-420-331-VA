@@ -1,0 +1,10 @@
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.StudentForm.resources
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.Properties.Resources.resources
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csproj.GenerateResource.cache
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.pdb
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.dll.config
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\15147\source\repos\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.dll
