@@ -1,0 +1,13 @@
+C:\Users\15147\source\repos\Product Search\Product Search\bin\Debug\ProductDB.mdf
+C:\Users\15147\source\repos\Product Search\Product Search\bin\Debug\ProductDB_log.ldf
+C:\Users\15147\source\repos\Product Search\Product Search\bin\Debug\Product Search.exe.config
+C:\Users\15147\source\repos\Product Search\Product Search\bin\Debug\Product Search.exe
+C:\Users\15147\source\repos\Product Search\Product Search\bin\Debug\Product Search.pdb
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product Search.csproj.AssemblyReference.cache
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product Search.csproj.SuggestedBindingRedirects.cache
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product_Search.Form1.resources
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product_Search.Properties.Resources.resources
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product Search.csproj.GenerateResource.cache
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product Search.csproj.CoreCompileInputs.cache
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product Search.exe
+C:\Users\15147\source\repos\Product Search\Product Search\obj\Debug\Product Search.pdb
